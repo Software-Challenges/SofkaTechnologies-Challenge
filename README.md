@@ -21,8 +21,8 @@ Ambos se conectan a una base de datos **PostgreSQL** compartida y pueden ejecuta
 
 ## Repositorios
 
-- [TechnicalTest-SofkaTechnologies-IdentityService](https://github.com/BeLawliet/TechnicalTest-SofkaTechnologies-IdentityService.git)  
-- [TechnicalTest-SofkaTechnologies-AccountService](https://github.com/BeLawliet/TechnicalTest-SofkaTechnologies-AccountService.git)  
+- [TechnicalTest-SofkaTechnologies-IdentityService](https://github.com/Software-Challenges/Sofka-IdentityService.git)  
+- [TechnicalTest-SofkaTechnologies-AccountService](https://github.com/Software-Challenges/Sofka-AccountService.git)  
 
 ---
 
